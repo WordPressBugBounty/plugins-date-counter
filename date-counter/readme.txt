@@ -1,9 +1,9 @@
 === Date counter ===
 Contributors: pankratovkm
 Donate link: https://buymeacoffee.com/ko.pa
-Tags: Date, counter, days, months, years, hours, minutes, seconds, difference, post date
+Tags: Date, counter, date counter, days, years
 Requires at least: 3.1
-Tested up to: 6.4
+Tested up to: 6.8
 Stable tag: 2.0.3
 Requires PHP: 5.3
 License: GPLv2
